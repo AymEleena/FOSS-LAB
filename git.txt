@@ -1,1 +1,1 @@
-git is awesome
+Java is simple. Git is even better
